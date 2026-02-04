@@ -1,0 +1,21 @@
+#main-content {
+  background-color: #999999;
+  height: 1200px;
+  padding: 15px;
+  margin-top: 20px;
+  color: white;
+}
+
+#nav-list {
+  background-color: #f1f1f1;
+  margin: 0;
+}
+
+#nav-list li {
+  border-bottom: 1px solid #ccc;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  font-size: 1.5em;
+}
